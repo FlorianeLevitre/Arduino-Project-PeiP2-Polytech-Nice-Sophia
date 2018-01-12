@@ -10,5 +10,5 @@ Nous avons fait des recherches concernant les capteurs pouvant déjà exister, e
 Séance du 12/01/18
 
 Nous avons décidé de séparer les taches de travail. J'ai décidé de continuer la rédaction du README et Mélanie fait des recherches plus approfondies concernant les capteurs. 
-Premièrement, nous choisissons de partir sur le montage du capteur d'humidité, et sur la rédaction du code l'accompagnant. 
+Premièrement, nous choisissons de partir sur le montage du capteur d'humidité, et sur la rédaction du code.
 
