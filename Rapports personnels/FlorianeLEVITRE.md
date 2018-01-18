@@ -31,7 +31,7 @@ Avec mon échantillon de terre humide, j'ai suivi les étapes suivantes:
 <li>Une connection de la breadboard avec la carte Arduino à l'aide d'un cable USB</li>
 </ul>
 <li>Ecriture du code</li>
-<li>Exécution de l'expérience pour de la terre humide<li>
+<li>Exécution de l'expérience pour de la terre humide</li>
 </ol>
 
 <h2>Travail du 13/01/18</h2>
