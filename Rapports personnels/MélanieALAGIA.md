@@ -15,11 +15,11 @@ Lors de cette deuxième séance, l'enseignant nous a donné trois capteurs :
 - capteur d'humidité du sol
 - capteur d'humidité de l'air et de température
 - capteur de luminosité </br></br>
-Par la suite, en faisant des recherches, je n'ai pas trouvé de capteur de sels minéraux pour arduino donc nous avons remplacé ce dernier par un capteur de PH du sol. Nous avons demandé à le commander.</br> </br>
+Par la suite, en faisant des recherches, je n'ai pas trouvé de capteur de sels minéraux pour arduino donc nous avons remplacé ce dernier par un capteur de PH du sol. Nous avons alors demandé à commander ce capteur : analyseur de sol 3 en 1. Il n'existe pas de capteur de PH "seul" donc nous allons essayer de le démonter, de comprendre et de réutiliser l'intérieur pour avoir notre capteur de ph de sol pour arduino.</br> </br>
 Puis, nous nous sommes répartis les tâches, Floriane a commencé avec le capteur d'humidité du sol et moi avec le capteur d'humidité de l'air et de température. </br> </br>
 J'ai d'abord trouvé sur internet le nom exact du composant et j'ai commencé à écrire le code pour mesurer la température et l'humidité de l'air.
 
 <h2> Séance du 18 janvier 2018 : </h2>
 
 J'ai téléchargé les librairies adapté pour le code concernant le capteur d'humidité et de température.
-J'ai fini d'écire ce code, j'ai fait le montage et j'ai testé le tout. </br>  Nous avons commencé le diaporama pour la présentation orale de la semaine prochaine. </br> Et nous avons continué la rédaction du github (readme et rapports personels).
+J'ai fini d'écrire ce code, j'ai fait le montage et j'ai testé le tout. </br>  Nous avons commencé le diaporama pour la présentation orale de la semaine prochaine. </br> Et nous avons continué la rédaction du github (readme et rapports personels).
