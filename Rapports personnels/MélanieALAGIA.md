@@ -21,4 +21,5 @@ J'ai d'abord trouvé sur internet le nom exact du composant et j'ai commencé à
 
 <h2> Séance du 18 janvier 2018 : </h2>
 
-J'ai continué à écire le code concernant le capteur d'humidité et de température, j'ai fait le montage et j'ai testé le tout. </br>  Nous avons commencé le diaporama pour la présentation orale de la semaine prochaine. </br> Et nous avons continué la rédaction du github (readme et rapports personels).
+J'ai téléchargé les librairies adapté pour le code concernant le capteur d'humidité et de température.
+J'ai fini d'écire ce code, j'ai fait le montage et j'ai testé le tout. </br>  Nous avons commencé le diaporama pour la présentation orale de la semaine prochaine. </br> Et nous avons continué la rédaction du github (readme et rapports personels).
