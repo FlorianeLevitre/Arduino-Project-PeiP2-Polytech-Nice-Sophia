@@ -39,7 +39,7 @@ Ensuite, nous utiliserons le matériel suivant :
 <li>Deux LED rouge et verte</li>
 <li>Une ou plusieurs résistances</li>
 <li>Une breadboard</li>
-<li>Des fils de connection</li>
+<li>Des fils de connexion</li>
 </ul>
 
 
