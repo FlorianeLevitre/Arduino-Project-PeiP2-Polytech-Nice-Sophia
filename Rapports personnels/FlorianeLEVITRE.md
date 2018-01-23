@@ -47,5 +47,14 @@ Après avoir fait des recherches, nous nous sommes rendues compte qu'il n'exista
 J'ai fait des recherches sur un capteur d'humidité plus grand que celui qu'il nous a été fourni. En effet, le premier capteur mis à notre disposition mesure seulement 0.6mm, et mesurer l'humidité du sol seulement à mois d'un cm de la surface n'est pas significatif. Avec le soleil et le vent, cette première couche de terre sèche très vite, alors que plus en profondeur, la plante est toujours humide.
 J'ai perfectionné l'écriture du README, et commencé à écrire mon rapport personnel.
 
+<h2>Séance du 23/01/18</h2>
+
+Nous avons fait notre 1er oral dans le but de présenter notre projet à nos professeurs et à notre groupe. 
+
+Mr Masson nous a donné le capteur de pH du sol et le capteur d'humidité du sol qu'il a recu. 
+Nous avons essayé d'ouvrir le capteur pH du sol, mais ce fut un échec. Nous demanderons donc la prochaine fois qu'une personne ayant plus de force le fasse...
+J'ai écris le code du capteur humidité, fait le montage et testé à l'air ambiant ainsi que dans un bol d'eau. 
+La prochaine expérience consiste à tester ce capteur dans de la terre sèche et dela terre humide. 
+
 
 
