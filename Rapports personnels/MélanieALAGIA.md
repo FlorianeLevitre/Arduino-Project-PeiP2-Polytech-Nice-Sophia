@@ -23,3 +23,8 @@ J'ai d'abord trouvé sur internet le nom exact du composant et j'ai commencé à
 
 J'ai téléchargé les librairies adapté pour le code concernant le capteur d'humidité et de température.
 J'ai fini d'écrire ce code, j'ai fait le montage et j'ai testé le tout. </br>  Nous avons commencé le diaporama pour la présentation orale de la semaine prochaine. </br> Et nous avons continué la rédaction du github (readme et rapports personels).
+
+<h2> Séance du 23 janvier 2018 : </h2>
+
+Nous avons fait notre première présentation orale. Nous avons présenter notre projet et son déroulement à nos professeurs et à la classe. </br> </br>
+Nous avons reçu les deux capteurs commandés (capteur de ph du sol et capteur d'humidité de l'eau). Nous avons essyaé de démonter le capteur de ph du sol sans succès. Puis j'ai écris le code pour le capteur de luminosité. Il faudra donc faire le montage et tester.
