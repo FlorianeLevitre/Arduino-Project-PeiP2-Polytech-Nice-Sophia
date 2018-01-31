@@ -28,3 +28,9 @@ J'ai fini d'écrire ce code, j'ai fait le montage et j'ai testé le tout. </br> 
 
 Nous avons fait notre première présentation orale. Nous avons présenter notre projet et son déroulement à nos professeurs ainsi qu'à la classe. </br> </br>
 Nous avons reçu les deux capteurs commandés (capteur de ph du sol et capteur d'humidité du sol). Nous avons essayé de démonter le capteur de ph du sol sans succès. Puis j'ai écris le code pour le capteur de luminosité. Il faudra donc faire le montage et tester.
+
+<h2> Semaine 5 : </h2>
+
+J'ai fait le montage concernant le capteur de luminosité puis j'ai tester. J'ai ensuite rajouter une led qui s'éclaire lorsque la pièce est sombre et qui s'éteint si la piéce est éclairée (montage et test).
+
+
