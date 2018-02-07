@@ -33,7 +33,7 @@ Nous avons reçu les deux capteurs commandés (capteur de ph du sol et capteur d
 
 J'ai fait le montage concernant le capteur de luminosité puis j'ai testé. J'ai ensuite rajouté une led qui s'éclaire lorsque la pièce est sombre et qui s'éteint si la piéce est éclairée (montage et test).
 
-<h2> Séance du 7 février </h2>
+<h2> Séance du 7 février 2018 : </h2>
 
 Nous avons choisit d'utiliser le bluetooth pour envoyer les données sur le téléphone. Nous avons donc téléchargé l'application Bluetooth Electronics sur le téléphone et nous avons commencé le montage en nous aidant des cours de Mr Ferrero. </br> 
 Nous avons également ouvert le capteur de PH du sol.
