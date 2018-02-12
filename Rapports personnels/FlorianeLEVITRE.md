@@ -56,7 +56,7 @@ Nous avons essayé d'ouvrir le capteur pH du sol, mais ce fut un échec. Nous de
 J'ai écris le code du capteur humidité, fait le montage et testé à l'air ambiant ainsi que dans un bol d'eau. 
 La prochaine expérience consiste à tester ce capteur dans de la terre sèche et dela terre humide. 
 
-<h2>Séance du 07/02/18<h2>
+<h2>Séance du 07/02/18</h2>
 
 Nous avons réussi à ouvrir notre capteur pH (avec l'aide de Mr Masson...). Il nous reste cependant à analyser les composants se trouvant à l'intérieur et leurs utilités lors de la prochaine séance, sachant que nous ne trouvons aucune information sur internet permettant de nous aider à mieux comprendre ce capteur. Nous essaierons donc au maximum de déchiffrer ce que nous voyons. 
 Nous avons décidé d'utiliser le bluetooth comme moyen de communication entre notre carte Arduino et notre téléphone. Nous avons téléchargé l'application Bluetooth Electronics afin de déterminer si nous choisirons cette application ou non.  
