@@ -60,8 +60,15 @@ La prochaine expérience consiste à tester ce capteur dans de la terre sèche e
 
 Nous avons réussi à ouvrir notre capteur pH (avec l'aide de Mr Masson...). Il nous reste cependant à analyser les composants se trouvant à l'intérieur et leurs utilités lors de la prochaine séance, sachant que nous ne trouvons aucune information sur internet permettant de nous aider à mieux comprendre ce capteur. Nous essaierons donc au maximum de déchiffrer ce que nous voyons. 
 Nous avons décidé d'utiliser le bluetooth comme moyen de communication entre notre carte Arduino et notre téléphone. Nous avons téléchargé l'application Bluetooth Electronics afin de déterminer si nous choisirons cette application ou non.  
-Nous avons fait le branchement du module bluetooth sur notre breadboard à l'aide des cours de Mr Ferrero. Cependant nous n'avons pas réussi à le configurer correctement, nous terminerons donc cela lors de la séance prochaine. 
+Nous avons fait le branchement du module bluetooth HC-06 sur notre breadboard à l'aide des cours de Mr Ferrero. Cependant nous n'avons pas réussi à le configurer correctement, nous terminerons donc cela lors de la séance prochaine. 
 Nous avons également cherché sur internet un logiciel qui nous permettrait de créer un boitier extérieur permettant de dissimuler au mieux tout notre montage et de donner un aspect esthétique joli. Nous avons pour le moment téléchargé le logiciel LibreCad mais ce n'est pas encore sur que nous utilisions celui-ci. 
+
+<h2>Séance du 16/03/18</h2>
+
+J'ai terminé la configuration du module HC-06. J'attends la séance prochaine avec Mélanie pour pouvoir discuter ensemble de la configuration de l'application Bluetooth Electronics. Il s'agit plutôt en fait de réfléchir ensemble à la présentation de nos mesures par la carte Arduino sur l'application. 
+Je me suis également occupée du capteur pH. Pour rappel, il mesure également la luminosité et l'humidité du sol.
+Afin de déterminer son mode d'alimentation, j'ai utilisé un voltmètre et j'ai mesuré la tension en sortie du capteur en fonction de la luminosité. Lorsque le capteur est à l'ombre, la tension est quasi nulle. Au soleil, elle est de l'ordre de 0,140V. 
+Afin de déterminer quels fils correspondent à la mesure du pH, j'utilise un ohmètre que je mets en mode "détecteur de tension continue". Lorsque deux fils sont connectés, l'ohmètre va alors émettre un bruit. Une fois que j'ai trouvé quels fils étaient connectés, il me ne me reste plus qu'à les désouder du boitier afin de les connecter avec ma carte Arduino. 
 
 
 
