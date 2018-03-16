@@ -65,10 +65,11 @@ Nous avons également cherché sur internet un logiciel qui nous permettrait de 
 
 <h2>Séance du 16/03/18</h2>
 
-J'ai terminé la configuration du module HC-06. J'attends la séance prochaine avec Mélanie pour pouvoir discuter ensemble de la configuration de l'application Bluetooth Electronics. Il s'agit plutôt en fait de réfléchir ensemble à la présentation de nos mesures par la carte Arduino sur l'application. 
+J'ai terminé la configuration du module HC-06. 
+J'attends la séance prochaine avec Mélanie pour pouvoir discuter ensemble de la configuration de l'application Bluetooth Electronics. Il s'agit plutôt en fait de réfléchir ensemble à la présentation de nos mesures par la carte Arduino sur l'application. 
 Je me suis également occupée du capteur pH. Pour rappel, il mesure également la luminosité et l'humidité du sol.
-Afin de déterminer son mode d'alimentation, j'ai utilisé un voltmètre et j'ai mesuré la tension en sortie du capteur en fonction de la luminosité. Lorsque le capteur est à l'ombre, la tension est quasi nulle. Au soleil, elle est de l'ordre de 0,140V. 
-Afin de déterminer quels fils correspondent à la mesure du pH, j'utilise un ohmètre que je mets en mode "détecteur de tension continue". Lorsque deux fils sont connectés, l'ohmètre va alors émettre un bruit. Une fois que j'ai trouvé quels fils étaient connectés, il me ne me reste plus qu'à les désouder du boitier afin de les connecter avec ma carte Arduino. 
+Afin de déterminer son mode d'alimentation, j'ai utilisé un Voltmètre et j'ai mesuré la tension en sortie du capteur en fonction de la luminosité. Lorsque le capteur est à l'ombre, la tension est quasi nulle. Au soleil, elle est de l'ordre de 0,140V. 
+Afin de déterminer quels fils correspondent à la mesure du pH, j'utilise un Ohmètre que je mets en mode "détecteur de tension continue". Lorsque deux fils sont connectés, l'ohmètre va alors émettre un bruit. Une fois que j'ai trouvé quels fils étaient connectés, il ne me reste plus qu'à les désouder du boitier afin de les connecter avec ma carte Arduino. Il faut cependant que je trouve une scie à métaux me permettant de séparer le capteur pH du reste du boitier. Dès que j'aurai fait cette étape, je pourrais connecter mon capteur à ma carte Arduino et ainsi créer un programme permettant de mesurer le pH du sol. 
 
 
 
