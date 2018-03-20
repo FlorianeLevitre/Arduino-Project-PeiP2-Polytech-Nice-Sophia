@@ -37,4 +37,8 @@ J'ai fait le montage concernant le capteur de luminosité puis j'ai testé. J'ai
 
 Nous avons choisit d'utiliser le bluetooth pour envoyer les données sur le téléphone. Nous avons donc téléchargé l'application Bluetooth Electronics sur le téléphone et nous avons commencé le montage en nous aidant des cours de Mr Ferrero. </br> 
 Nous avons également ouvert le capteur de PH du sol. </br>
-Et, nous avons téléchargé le logiciel liveCAD pour réaliser en 3D/2D notre boite final.
+Et, nous avons téléchargé le logiciel libreCAD pour réaliser en 3D/2D notre boite final.
+
+<h2> Séance du 16 mars 2018 : </h2>
+
+Absente lors de cette séance. Floriane m'a expliqué ce qu'elle a fait et sur quoi elle a avancé.
