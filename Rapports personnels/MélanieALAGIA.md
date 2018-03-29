@@ -42,3 +42,8 @@ Et, nous avons téléchargé le logiciel libreCAD pour réaliser en 3D/2D notre 
 <h2> Séance du 16 mars 2018 : </h2>
 
 Absente lors de cette séance. Floriane m'a expliqué ce qu'elle a fait et sur quoi elle a avancé.
+
+<h2> Séance du 29 mars 2018 : </h2>
+
+Nous avons réfléchit à la forme et aux dimensions de notre boite final qui contiendra la carte arduino et tous nos capteurs. Nous souderons tous les composants entre eux pour éviter de garder la breadboard et ainsi gagner de l'espace et avoir un circuit propre (fils ne s'enlevent pas ...). Nous avons alors fait le schéma de toutes les faces de notre boite avec les dimensions et en représentant les capteurs, les leds, la carte arduino ... Puis nous avons pris rendez-vous au fablab pour la réaliser mardi 3 avril. </br>
+Nous avons ensuite commencé notre diaporama pour la présentation orale de la semaine prochaine.
