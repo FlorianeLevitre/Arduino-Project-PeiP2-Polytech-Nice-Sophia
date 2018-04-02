@@ -73,8 +73,14 @@ Afin de déterminer quels fils correspondent à la mesure du pH, j'utilise un Oh
 
 <h2>Séance du 29/03/18</h2>
 
-Mélanie et moi avons fait un schéma de ce à quoi ressemblera si possible notre boitier final comportant nos 4 capteurs ainsi que notre carte Arduino. Nous avons discuté avec Mr Masson et nous avons fait le choix de souder tous nos fils entre eux afin de ne pas intégrer de breaboard à notre boitier, cela nous fera gagner de la place. 
+Mélanie et moi avons fait un schéma de ce à quoi ressemblera si possible notre boitier final comportant nos 4 capteurs ainsi que notre carte Arduino. Nous avons noté également toutes les dimensions nécessaires. 
+Nous avons discuté avec Mr Masson et nous avons fait le choix de souder tous nos fils entre eux afin de ne pas intégrer de breaboard à notre boitier, cela nous fera gagner de la place. 
 Nous avons pris rendez-vous pour le 03/04/18 au FabLab afin d'imprimer au laser notre boitier dans du plexiglas. 
+Nous avons ensuite commencé notre diaporama pour notre 2ème oral qui aura lieu le 05/04/18. 
+
+<h2>Séance du 05/04/18</h2>
+
+A venir...
 
 
 
