@@ -71,6 +71,10 @@ Je me suis également occupée du capteur pH. Pour rappel, il mesure également 
 Afin de déterminer son mode d'alimentation, j'ai utilisé un Voltmètre et j'ai mesuré la tension en sortie du capteur en fonction de la luminosité. Lorsque le capteur est à l'ombre, la tension est quasi nulle. Au soleil, elle est de l'ordre de 0,140V. 
 Afin de déterminer quels fils correspondent à la mesure du pH, j'utilise un Ohmètre que je mets en mode "détecteur de tension continue". Lorsque deux fils sont connectés, l'ohmètre va alors émettre un bruit. Une fois que j'ai trouvé quels fils étaient connectés, il ne me reste plus qu'à les désouder du boitier afin de les connecter avec ma carte Arduino. Il faut cependant que je trouve une scie à métaux me permettant de séparer le capteur pH du reste du boitier. Dès que j'aurai fait cette étape, je pourrais connecter mon capteur à ma carte Arduino et ainsi créer un programme permettant de mesurer le pH du sol. 
 
+<h2>Séance du 29/03/18</h2>
+
+Mélanie et moi avons fait un schéma de ce à quoi ressemblera si possible notre boitier final comportant nos 4 capteurs ainsi que notre carte Arduino. Nous avons discuté avec Mr Masson et nous avons fait le choix de souder tous nos fils entre eux afin de ne pas intégrer de breaboard à notre boitier, cela nous fera gagner de la place. 
+Nous avons pris rendez-vous pour le 03/04/18 au FabLab afin d'imprimer au laser notre boitier dans du plexiglas. 
 
 
 
