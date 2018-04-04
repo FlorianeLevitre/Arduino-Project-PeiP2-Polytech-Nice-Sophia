@@ -52,3 +52,6 @@ Nous avons ensuite commencé notre diaporama pour la présentation orale de la s
 
 Nous sommes allés au fablab pour concevoir notre boite final. Nous avons choisit de la réaliser en bois et nous avons fait au découpe laser les trous nécessaire pour que les capteurs et les leds puissent sortir. Nous avons égalemnt décider de fixer notre carte arduino avec des vis à l’intérieur de la boite. Il faudra alors y retourner percer des trous pour les vis.
 
+<h2> Mercredi 4 avril 2018 : </h2>
+
+Nous avons fixé notre boite arduino sur la face inférieure de notre boite avec des vis aprés avoir fait les trous correspondant à l'aide de la perceuse. Nous avons dessouder et ressouder des composants du capteur de température et de luminosité qui nous gênait.
