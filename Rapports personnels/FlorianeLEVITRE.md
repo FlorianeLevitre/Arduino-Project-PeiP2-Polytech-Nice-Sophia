@@ -78,9 +78,11 @@ Nous avons discuté avec Mr Masson et nous avons fait le choix de souder tous no
 Nous avons pris rendez-vous pour le 03/04/18 au FabLab afin d'imprimer au laser notre boitier dans du plexiglas. 
 Nous avons ensuite commencé notre diaporama pour notre 2ème oral qui aura lieu le 05/04/18. 
 
-<h2>Mercredi 04/05/18</h2>
+<h2>Mardi 03 et Mercredi 04/05/18</h2>
 
-Nous sommes allées au FabLab pour imprimer au Laser notre boitier qui comportera tout notre circuit. Nous avons choisi comme matière du bois, nous avons percé des trous pour tous nos capteurs ainsi que pour les LED. Nous avons fixé notre carte Arduino sur la face inférieure de notre boite à l'aide de vis. Il nous reste à vernir le boitier pour l'imperméabiliser un minimum et souder le circuit à l'intérieur.
+Nous sommes allées au FabLab pour imprimer au Laser notre boitier qui comportera tout notre circuit. Nous avons changé le plexiglas pour du bois pour une question d'esthétique. Le bois fait nature, et on ne verra pas le circuit interne. Nous laisserons bien évidemment une face non collée permettant d'observer l'intérieur. 
+Nous avons percé des trous pour tous nos capteurs ainsi que pour les LED associées. 
+Nous avons fixé notre carte Arduino sur la face inférieure de notre boite à l'aide de vis. Il nous reste à vernir le boitier pour l'imperméabiliser un minimum et souder le circuit à l'intérieur.
 
 <h2>Séance du 05/04/18</h2>
 
