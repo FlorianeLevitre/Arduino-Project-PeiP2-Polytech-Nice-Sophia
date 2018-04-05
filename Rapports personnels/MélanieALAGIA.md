@@ -55,3 +55,8 @@ Nous sommes allés au fablab pour concevoir notre boite final. Nous avons choisi
 <h2> Mercredi 4 avril 2018 : </h2>
 
 Nous avons fixé notre boite arduino sur la face inférieure de notre boite avec des vis aprés avoir fait les trous correspondant à l'aide de la perceuse. Nous avons dessouder et ressouder des composants du capteur de température et de luminosité qui nous gênait.
+
+<h2> Séance du 5 avril 2018 : </h2>
+
+Nous avons fait notre deuxième présentation orale. 
+Puis, nous avons commencer à souder notre circuit mais le soudage du bluetooth fut un échec.
