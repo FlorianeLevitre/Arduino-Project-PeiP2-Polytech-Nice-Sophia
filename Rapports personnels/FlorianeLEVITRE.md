@@ -86,7 +86,8 @@ Nous avons fixé notre carte Arduino sur la face inférieure de notre boite à l
 
 <h2>Séance du 05/04/18</h2>
 
-A venir...
+Nous avons présenté lors de notre 2ème oral l'avancement de notre projet depuis qu'on l'a commencé. Nous avons parlé de nos objectifs, de nos réussites, des difficultés rencontrées et de notre planning. 
+Nous avions auparavant cablé le module HC-06 sur la breadboard et il fonctionnait. Cependant, lorsque nous l'avons soudé aujourd'hui, il ne fonctionne plus. Nous règlerons notre erreur de soudage la semaine prochaine. 
 
 
 
