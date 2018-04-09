@@ -60,3 +60,7 @@ Nous avons fixé notre boite arduino sur la face inférieure de notre boite avec
 
 Nous avons fait notre deuxième présentation orale. 
 Puis, nous avons commencer à souder notre circuit mais le soudage du bluetooth fut un échec.
+
+<h2> Séance du 9 avril 2018 : </h2>
+
+Nous avons soudé notre capteur de luminosité, d'humidité de la terre, d'humidité de l'air et de température ainsi que notre module bluetooth.
