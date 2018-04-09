@@ -42,7 +42,7 @@ De plus, Mélanie et moi avons passé notre première commande : un analyseur de
 Après avoir fait des recherches, nous nous sommes rendues compte qu'il n'existait pas de capteur de pH "seul". Nous avons pris la décision de commander ce capteur 3-en-1 afin de le démonter et analyser ce qu'il y a à l'intérieur pour pouvoir le réutiliser avec Arduino.
 
 
-<h2>Séance du 18/01/18</h2>
+<<h2>Séance du 18/01/18</h2>
 
 J'ai fait des recherches sur un capteur d'humidité plus grand que celui qu'il nous a été fourni. En effet, le premier capteur mis à notre disposition mesure seulement 0.6mm, et mesurer l'humidité du sol seulement à mois d'un cm de la surface n'est pas significatif. Avec le soleil et le vent, cette première couche de terre sèche très vite, alors que plus en profondeur, la plante est toujours humide.
 J'ai perfectionné l'écriture du README, et commencé à écrire mon rapport personnel.
@@ -89,5 +89,6 @@ Nous avons fixé notre carte Arduino sur la face inférieure de notre boite à l
 Nous avons présenté lors de notre 2ème oral l'avancement de notre projet depuis qu'on l'a commencé. Nous avons parlé de nos objectifs, de nos réussites, des difficultés rencontrées et de notre planning. 
 Nous avions auparavant cablé le module HC-06 sur la breadboard et il fonctionnait. Cependant, lorsque nous l'avons soudé aujourd'hui, il ne fonctionne plus. Nous règlerons notre erreur de soudage la semaine prochaine. 
 
-
+<h2>Séance du 09/04/18</h2>
+Mélanie et moi avons passé la séance à souder tous nos capteurs (excepté le pH, dont nous n'avons pas encore compris le fonctionnement : code et montage). Nous avons également essayé de rentrer nos capteurs humidité du sol, luminosité, température et humidité de l'air à l'intérieur de la boite et cela rentre !
 
