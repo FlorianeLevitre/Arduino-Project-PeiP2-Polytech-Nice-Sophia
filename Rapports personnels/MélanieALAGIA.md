@@ -63,4 +63,4 @@ Puis, nous avons commencer à souder notre circuit mais le soudage du bluetooth 
 
 <h2> Séance du 9 avril 2018 : </h2>
 
-Nous avons soudé notre capteur de luminosité, d'humidité de la terre, d'humidité de l'air et de température ainsi que notre module bluetooth.
+Nous avons soudé notre capteur de luminosité, d'humidité de la terre, d'humidité de l'air et de température ainsi que notre module bluetooth. Nous avons également essayer de rentrer tout notre circuit notre boite final.
