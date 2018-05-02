@@ -92,3 +92,7 @@ Nous avions auparavant cablé le module HC-06 sur la breadboard et il fonctionna
 <h2>Séance du 09/04/18</h2>
 Mélanie et moi avons passé la séance à souder tous nos capteurs (excepté le pH, dont nous n'avons pas encore compris le fonctionnement : code et montage). Nous avons également essayé de rentrer nos capteurs humidité du sol, luminosité, température et humidité de l'air à l'intérieur de la boite et cela rentre !
 
+<h2> Séance du 09/05/18</h2>
+Suite aux conseils de Mr Masson, j'ai écrit un très court programme permettant de relever la tension du capteur pH. Nous avons testé notre programme en plongeant notre capteur dans de l'eau (pH neutre). Il nous faut désormais plonger notre capteur dans une solution basique et une solution acide et ainsi dire par exemple qu'une telle tension correspond à un tel pH. Sans informations sur internet, il nous est impossible de comprendre le fonctionnement exact de ce capteur. 
+Nous avons regroupé tous nos codes qui étaient jusque là écrits dans des fichiers séparés. Nous avons également crée un panel sur l'application BLuetooth Electronics permettant d'afficher la température et l'humidité de l'air. Il nous reste à rassembler toutes les informations des capteurs sur un même panel pour pouvoir ainsi visualiser toutes nos données récupérées en même temps. 
+J'ai également modifié notre README. 
