@@ -64,3 +64,7 @@ Puis, nous avons commencer à souder notre circuit mais le soudage du bluetooth 
 <h2> Séance du 9 avril 2018 : </h2>
 
 Nous avons soudé notre capteur de luminosité, d'humidité de la terre, d'humidité de l'air et de température ainsi que notre module bluetooth. Nous avons également essayer de rentrer tout notre circuit notre boite final.
+
+<h2> Séance du 2 mai 2018 : </h2>
+
+Nous avons lu la tension du capteur ph grace à l'arduino. Et il faudra le mettre dans des solutions basique et acide pour associer la bonne tension à la bonne valeur de ph. <br> Puis nous avons mis tous nos programmes dans un même programme final. Et nous avons réussi à envoyer sur le téléphone les données sous forme de graphes de deux capteurs : humidité de l'air et température ainsi que celui d'humidité du sol.
