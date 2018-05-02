@@ -20,7 +20,7 @@ Nous voulons créer une malette regroupant différents capteurs permettant de me
 Les plantes sont des êtres vivants nécessitant de l'eau, des sels minéraux, de l'air, de la lumière (directe ou indirecte) et de la chaleur. De plus, mesurer le pH du sol est une étape importante lorsque l'on souhaite planter. Nous rajouterons donc ce capteur à notre liste. 
 
 <h2>Evolution du projet</h2>
-Nous avons finalement crée une boite en bois dans laquelle nous avons regroupé pour le moment nos trois capteurs : humidité du sol, humidité de l'air et température et luminosité ainsi que le module Bluetooth. Le choix du matériau fut simple : le bois donne le coté nature que nous recherchions. Quant au capteur pH, il nous reste pour le moment à comprendre son fonctionnement afin de l'incorporer à l'endroit déjà prévu dans la boite ! 
+Nous avons choisi de partir finalement sur la création d'une boite en bois au FabLab regroupant nos trois capteurs: humidité du sol, humidité de l'air et température et luminosité ainsi que le module Bluetooth. Le choix du matériau fut simple : le bois donne le coté nature que nous recherchions. Quant au capteur pH, il nous reste pour le moment à comprendre son fonctionnement afin de l'incorporer à l'endroit déjà prévu dans la boite ! 
 
 <h2>Pour qui ?</h2>
 Ce projet est réalisé dans le but de faciliter la gestion des plantes par une personne. En effet, ne possédant pas la parole pour nous exprimer ce dont elles ont besoin, il nous semblait utile de créer des capteurs permettant de savoir à la place d'une personne quand est-ce-que la plante a besoin d'eau par exemple. De plus, ces capteurs seraient reliés à un smartphone, ce qui permettrait d'envoyer les données collectées directement sur le portable de la personne. 
@@ -46,5 +46,3 @@ Ensuite, nous utiliserons le matériel suivant :
 <li>Boite en bois regroupant tous notre montage</li>
 <li>Vis permettant de fixer la carte Arduino sur le support inférieur de la boite</li>
 </ul>
-
-
