@@ -41,7 +41,7 @@ J'ai donc relevé les valeurs de tension et de résistance dans les deux cas.
 De plus, Mélanie et moi avons passé notre première commande : un analyseur de sol 3-en-1.
 Après avoir fait des recherches, nous nous sommes rendues compte qu'il n'existait pas de capteur de pH "seul". Nous avons pris la décision de commander ce capteur 3-en-1 afin de le démonter et analyser ce qu'il y a à l'intérieur pour pouvoir le réutiliser avec Arduino.
 
-<<h2>Séance du 18/01/18</h2>
+<h2>Séance du 18/01/18</h2>
 
 J'ai fait des recherches sur un capteur d'humidité plus grand que celui qu'il nous a été fourni. En effet, le premier capteur mis à notre disposition mesure seulement 0.6mm, et mesurer l'humidité du sol seulement à mois d'un cm de la surface n'est pas significatif. Avec le soleil et le vent, cette première couche de terre sèche très vite, alors que plus en profondeur, la plante est toujours humide.
 J'ai perfectionné l'écriture du README, et commencé à écrire mon rapport personnel.
