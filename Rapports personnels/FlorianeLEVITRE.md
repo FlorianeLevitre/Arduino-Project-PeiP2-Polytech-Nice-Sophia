@@ -1,5 +1,6 @@
 <h1>RAPPORT</h1>
 
+<div align="justified">
 <h2>Séance du 22/12/17</h2>
 
 Voici une liste des tâches effectuées lors de cette séance de "découverte" : 
@@ -101,3 +102,11 @@ J'ai également modifié notre README.
 J'ai complété le panel sur l'application en y rajoutant deux gauges, une pour le capteur humidité du sol et une pour la luminosité. Les données relevées par la carte Arduino sont bien envoyés sur ce panel et les LED s'allument lorsque cela est nécessaire. Comme nous n'avons pas encore incorporé le capteur pH du sol à notre circuit, il n'est donc pas codé dans notre fichier final et n'apparaît pas sur le panel. 
 J'ai également collé toutes les faces de la boite (excepté deux, afin que l'on accède toujours facilement au circuit pour le moment). Les LED sont mises en place hors de la boite dans les trous crées pour cela. 
 Il va falloir que j'aille acheter une plante de terre de bruyère qui se cultive en sol acide. Nous pourrons donc lui associer une tension. En ce qui concerne le sol basique, il faudra prendre une plante dans du terreau. 
+
+<h2> Séance du 09/05/18 </h2>
+Mélanie et moi sommes parties au début de la séance chez Castorama côté jardin. Nous y avons acheté de l'hortensia bleu qui se cultive en sol très acide (pH 4 à 5,5) et de la menthe qui se cultive en sol très calcaire (basique) (pH 7 à 8). De retour en cours, nous avons ensuite testé le capteur pH séparemment du circuit. Nous avons plongé la tige argentée dans chacune des deux plantes, et nous avons trouvé qu'une tension inférieure à 60V correspondait à un pH acide et une tension supérieure à un pH basique. 
+Nous avons ensuite soudé le capteur pH et une LED témoin au reste du circuit. Sur l'application Bluetooth Electronics, nous avons terminé notre panel avec nos quatre gauges.
+
+<h2 12/05/18 </h2>
+
+</div>
