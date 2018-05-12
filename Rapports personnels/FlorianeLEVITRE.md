@@ -1,6 +1,5 @@
 <h1>RAPPORT</h1>
 
-<div align="justified">
 <h2>Séance du 22/12/17</h2>
 
 Voici une liste des tâches effectuées lors de cette séance de "découverte" : 
@@ -41,7 +40,6 @@ Chez moi, j'ai pu prendre deux plantes en pot, l'une avec de la terre sèche et 
 J'ai donc relevé les valeurs de tension et de résistance dans les deux cas. 
 De plus, Mélanie et moi avons passé notre première commande : un analyseur de sol 3-en-1.
 Après avoir fait des recherches, nous nous sommes rendues compte qu'il n'existait pas de capteur de pH "seul". Nous avons pris la décision de commander ce capteur 3-en-1 afin de le démonter et analyser ce qu'il y a à l'intérieur pour pouvoir le réutiliser avec Arduino.
-
 
 <<h2>Séance du 18/01/18</h2>
 
@@ -109,4 +107,3 @@ Nous avons ensuite soudé le capteur pH et une LED témoin au reste du circuit. 
 
 <h2 12/05/18 </h2>
 
-</div>
