@@ -105,5 +105,5 @@ Il va falloir que j'aille acheter une plante de terre de bruyère qui se cultive
 Mélanie et moi sommes parties au début de la séance chez Castorama côté jardin. Nous y avons acheté de l'hortensia bleu qui se cultive en sol très acide (pH 4 à 5,5) et de la menthe qui se cultive en sol très calcaire (basique) (pH 7 à 8). De retour en cours, nous avons ensuite testé le capteur pH séparemment du circuit. Nous avons plongé la tige argentée dans chacune des deux plantes, et nous avons trouvé qu'une tension inférieure à 60V correspondait à un pH acide et une tension supérieure à un pH basique. 
 Nous avons ensuite soudé le capteur pH et une LED témoin au reste du circuit. Sur l'application Bluetooth Electronics, nous avons terminé notre panel avec nos quatre gauges.
 
-<h2 12/05/18 </h2>
+<h2> 12/05/18 </h2>
 J'ai terminé de coller le capteur pH ainsi que sa LED témoin. J'ai également collé le haut de la boîte. J'ai laissé uniquement un coté latéral non collé afin de pouvoir accéder au circuit si besoin. Notre boite est enfin prête, il ne nous reste plus qu'à rédiger le rapport pour le rendu final. 
