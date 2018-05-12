@@ -106,4 +106,4 @@ Mélanie et moi sommes parties au début de la séance chez Castorama côté jar
 Nous avons ensuite soudé le capteur pH et une LED témoin au reste du circuit. Sur l'application Bluetooth Electronics, nous avons terminé notre panel avec nos quatre gauges.
 
 <h2 12/05/18 </h2>
-
+J'ai terminé de coller le capteur pH ainsi que sa LED témoin. J'ai également collé le haut de la boîte. J'ai laissé uniquement un coté latéral non collé afin de pouvoir accéder au circuit si besoin. Notre boite est enfin prête, il ne nous reste plus qu'à rédiger le rapport pour le rendu final. 
