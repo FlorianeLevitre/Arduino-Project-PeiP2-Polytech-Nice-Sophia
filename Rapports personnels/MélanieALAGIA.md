@@ -61,10 +61,18 @@ Nous avons fixé notre boite arduino sur la face inférieure de notre boite avec
 Nous avons fait notre deuxième présentation orale. 
 Puis, nous avons commencer à souder notre circuit mais le soudage du bluetooth fut un échec.
 
+<h2> 8 avril 2018 : </h2>
+
+J'ai passé deux couches de lasure sur notre boite final afin de protégé le bois contre l'humidité, les moisissures et pour empécher les infiltrations d'eau.
+
 <h2> Séance du 9 avril 2018 : </h2>
 
 Nous avons soudé notre capteur de luminosité, d'humidité de la terre, d'humidité de l'air et de température ainsi que notre module bluetooth. Nous avons également essayer de rentrer tout notre circuit notre boite final.
 
 <h2> Séance du 2 mai 2018 : </h2>
 
-Nous avons lu la tension du capteur ph grace à l'arduino. Et il faudra le mettre dans des solutions basique et acide pour associer la bonne tension à la bonne valeur de ph. <br> Puis nous avons mis tous nos programmes dans un même programme final. Et nous avons réussi à envoyer sur le téléphone les données sous forme de graphes de deux capteurs : humidité de l'air et température ainsi que celui d'humidité du sol.
+Nous avons lu la tension du capteur ph grace à l'arduino. Et il faudra le mettre dans des solutions basique et acide pour associer la bonne tension à la bonne valeur de ph. <br> Puis nous avons mis tous nos programmes dans un même programme final. Et nous avons réussi à envoyer sur le téléphone les données sous forme de graphes de deux capteurs : humidité de l'air et température ainsi que celui d'humidité du sol. <br> Il nous reste à mettre toutes les informations sur un même panel de l'application Blurtooth Electronics pour pouvoir visualiser les données de tous nos capteurs en même temps.
+
+<h2> Séance du 9 mai 2018 : </h2>
+ 
+Nous sommes allées au début de la séance à castorama pour acheter deux plantes : une qui se cultive en sol très acide (nous avons pris une Hortensia bleu : pH de 4 à 5,5) et une qui se cultive en sol basique (nous avons acheté de la menthe : pH de 7 à 8). <br> Une fois en cours, nous avons testé notre capteur pH dans la terre de ces deux plantes et nous avons associé une tension pour les sols acides et une tension pour les sols basiques. Nous avons trouvé une tension inférieure à 60V pour les sols ayant un pH basique et une tension supérieure à 60V pour les sols ayant un pH acide. <br> Nous avons ensuite soudé une led au capteur ph et nous l'avons rajouté au reste du circuit. Nous avons également rajouté le code du cpateur pH au fichier final. Et enfin, nous avons complété le panel sur l'application Bluetooth Electronics pour avoir nos cinq gauges.  <br> Nous arrivons donc à avoir les données de tous nos capteurs sur le smartphone.  <br>Il manque juste à fermer la boite vu que tout marche.
