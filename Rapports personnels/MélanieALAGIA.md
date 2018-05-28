@@ -76,3 +76,11 @@ Nous avons lu la tension du capteur ph grace à l'arduino. Et il faudra le mettr
 <h2> Séance du 9 mai 2018 : </h2>
  
 Nous sommes allées au début de la séance à castorama pour acheter deux plantes : une qui se cultive en sol très acide (nous avons pris une Hortensia bleu : pH de 4 à 5,5) et une qui se cultive en sol basique (nous avons acheté de la menthe : pH de 7 à 8). <br> Une fois en cours, nous avons testé notre capteur pH dans la terre de ces deux plantes et nous avons associé une tension pour les sols acides et une tension pour les sols basiques. Nous avons trouvé une tension inférieure à 60V pour les sols ayant un pH basique et une tension supérieure à 60V pour les sols ayant un pH acide. <br> Nous avons ensuite soudé une led au capteur ph et nous l'avons rajouté au reste du circuit. Nous avons également rajouté le code du cpateur pH au fichier final. Et enfin, nous avons complété le panel sur l'application Bluetooth Electronics pour avoir nos cinq gauges.  <br> Nous arrivons donc à avoir les données de tous nos capteurs sur le smartphone.  <br>Il manque juste à fermer la boite vu que tout marche.
+
+<h2> Week-end du 26/27 mai 2018 : </h2>
+
+Ecriture du rapport 
+
+<h2> Séance du 1 juin 2018 : </h2
+ 
+ Présentation finale de notre projet, dernier oral
