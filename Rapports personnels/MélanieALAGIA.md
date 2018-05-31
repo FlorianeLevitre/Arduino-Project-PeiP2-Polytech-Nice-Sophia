@@ -79,7 +79,11 @@ Nous sommes allées au début de la séance à castorama pour acheter deux plant
 
 <h2> Week-end du 26/27 mai 2018 : </h2>
 
-Ecriture du rapport 
+Rédaction du rapport 
+
+<h2> 31 mai 2018 : </h2>
+
+Nous avons fais le diaporama pour notre dernière présentation et nous avons réalisé le film de démonstration de notre projet.
 
 <h2> Séance du 1 juin 2018 : </h2
  
