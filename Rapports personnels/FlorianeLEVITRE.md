@@ -108,3 +108,12 @@ Nous avons ensuite soudé le capteur pH et une LED témoin au reste du circuit. 
 <h2> 12/05/18 et 13/05/18</h2>
 J'ai collé le capteur pH ainsi que sa LED témoin dans les trous associés. J'ai également collé les 5 côtés de la boite, et laissé un côté latéral pouvant être ouvert en cas de besoin (il est uniquement fixé avec de la pate à fixe). J'ai retesté notre circuit et tout fonctionne parfaitement, excepté peut-être que le capteur pH est un peu trop long par rapport au capteur humidité et qu'il sera difficile de trouver un pot suffisamment long permettant de tester les deux capteurs en même temps. 
 Il ne nous reste plus désormais qu'à peaufiner notre fichier, rédiger le rapport final et passer à l'oral !!!
+
+<h2>26-27/05/18</h2>
+Nous avons terminé de rédiger le rapport final 
+
+<h2>31/05/18</h2>
+Nous avons filmé notre vidéo démonstration afin de réunir toutes les conditions nécéssaires pour montrer le fonctionnement de notre projet : avec/sans lumière, terre sèche/humide, températures froides/chaudes et pH qui ne marche pas...
+
+<h2>01/06/18</h2>
+Jour J !!! Nous allons faire notre oral final pour présenter notre projet devant nos responsables 
